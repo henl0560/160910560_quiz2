@@ -1,0 +1,175 @@
+body, html {
+  height: 100%;
+  scroll-behavior: smooth;
+}
+
+a {
+  text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  color: white;
+  width: 100%;
+  padding-bottom: 0px;
+  margin-bottom: 0px;
+  border-bottom: 0px;
+}
+
+.div2 {
+  width: 100%;
+  position: relative;
+  bottom: 5px;
+  left: 50%;
+  margin-left: -50%;
+}
+
+h1 {
+  text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
+  color: white;
+  border-color: black;
+  border-width: 5px;
+  border-radius: 15px;
+  text-align: center;
+  font-size: 50pt;
+  font-family: Lucida;
+  margin-top: auto;
+  margin-bottom: auto;
+  margin-right: 10%;
+  margin-left: 10%;
+  padding-right: 20px;
+  padding-left: 20px;
+}
+
+h5 {
+  text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
+
+  color: white;
+  border-color: black;
+  border-width: 5px;
+  border-radius: 15px;
+  text-align: center;
+  font-size: 40pt;
+  font: Lucida;
+  margin-top: auto;
+  margin-bottom: auto;
+  margin-right: 10%;
+  margin-left: 10%;
+  padding-right: 20px;
+  padding-left: 20px;
+}
+
+h2 {
+  text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
+
+  border-radius: 15px;
+  color: white;
+  border-color: black;
+  border-width: 5px;
+  text-align: center;
+  font-size: 30pt;
+  font: Lucida;
+  margin-top: auto;
+  margin-bottom: auto;
+  margin-right: 10%;
+  margin-left: 10%;
+  padding-right: 20px;
+  padding-left: 20px;
+}
+
+h3 {
+  text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
+
+  color: white;
+  font-size: 30pt;
+  font-family: Lucida;
+  margin-top: auto;
+  margin-bottom: auto;
+  margin-right: 10%;
+  margin-left: 10%;
+  padding-right: 20px;
+  padding-left: 20px;
+}
+
+h4 {
+  text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
+  color: white;
+  text-align: center;
+  font-size: 30pt;
+  font-family: Lucida;
+  margin-top: auto;
+  padding-top: 70%;
+  margin-bottom: auto;
+  margin-right: 10%;
+  margin-left: 10%;
+  padding-right: 20px;
+  padding-left: 20px;
+}
+
+.div1 {
+  height: 100%;
+  background-image: url("../img/red_rose.jpg");
+  background-color: red;
+  background-repeat: no-repeat;
+}
+
+.div12 {
+  height: 100%;
+  background-image: url("../img/pears.jpg");
+  background-color: red;
+  background-repeat: no-repeat;
+}
+
+.div13 {
+  height: 100%;
+  background-image: url("../img/pink.jpg");
+  background-color: red;
+  background-repeat: no-repeat;
+}
+
+.parallax1 {
+  /* The image used */
+  background-image: url('../img/blue_rose.jpeg');
+  /* Full height */
+  height: 100%;
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.parallax2 {
+  /* The image used */
+  background-image: url('../img/apple.jpg');
+  /* Full height */
+  height: 100%;
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.parallax3 {
+  /* The image used */
+  background-image: url('../img/plums.jpg');
+  /* Full height */
+  height: 100%;
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.parallax4 {
+  /* The image used */
+  background-image: url('../img/thats_all_folks.jpg');
+  /* Full height */
+  height: 100%;
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
